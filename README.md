@@ -17,3 +17,7 @@ Options:
 --hooks : Functional Stateful Hooks Component
 
 --func  : Functional statless Component
+
+--4spaces : Indent with 4 spaces (default)
+
+--2spaces : Indent with 2 spaces instead of the default 4
