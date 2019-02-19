@@ -3,11 +3,13 @@ import React, { useState } from 'react';
 import './$componentName.css';
 
 function $componentName(props) {
-  const [state, setState] = useState({});
+    const [state, setState] = useState({});
 
-  return (
-    <p>{state}</p>
-  );
+    return (
+        <div>
+            
+        </div>
+    );
 }
 
 $componentName.propTypes = {
