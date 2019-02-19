@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 
 import './$componentName.css';
 
-const $componentName = props =>  {
-  const [count, setCount] = useState(0);
+function $componentName(props) {
+  const [state, setState] = useState({});
 
   return (
-    <p>{count}</p>
+    <p>{state}</p>
   );
 }
 

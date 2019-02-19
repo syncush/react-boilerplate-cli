@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import './$componentName.css';
 
-const $componentName = props => {
+function $componentName(props) {
     return (
         <p>I am a beautiful component</p>
     );
