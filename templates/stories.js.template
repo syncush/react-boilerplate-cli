@@ -1,0 +1,6 @@
+import { storiesOf } from '@storybook/react';
+import React from 'react';
+import InterviewDayTable from './$componentName';
+
+storiesOf('$componentName', module)
+    .add('Description', () => <$componentName />);
