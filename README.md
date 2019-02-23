@@ -24,5 +24,5 @@ Options:
 
 # Contributors
 <a href="https://github.com/syncush"><img src="https://avatars2.githubusercontent.com/u/19842756?s=400&u=d7d0874558c09efa95936e77cde059e6e59e066b&v=4" title="Daniel Hermon (syncush)" width="80" height="80"></a>
-<a href="https://github.com/syncush"><img src="https://avatars1.githubusercontent.com/u/28227658?s=400&v=4" title="Orel Kanditan (orelkan)" width="80" height="80"></a>
+<a href="https://github.com/syncush"><img src="https://avatars1.githubusercontent.com/u/28227658?s=400&v=4" style="margin-right: 2rem" title="Orel Kanditan (orelkan)" width="80" height="80"></a>
 
