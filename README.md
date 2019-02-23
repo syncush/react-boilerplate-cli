@@ -21,3 +21,6 @@ Options:
 --4spaces : Indent with 4 spaces (default)
 
 --2spaces : Indent with 2 spaces instead of the default 4
+
+# Contributors
+<a href="https://github.com/syncush"><img src="https://avatars.githubusercontent.com/u/892048?v=3" title="ngryman" width="80" height="80"></a>
