@@ -1,0 +1,34 @@
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
+import './$componentName.$styleExtention';
+
+export interface Props {
+
+}
+
+export interface State {
+
+}
+
+class $componentName extends Component<Props, State> {
+    static propTypes: PropTypes.ValidationMap<Props> = {
+        
+    }
+
+    constructor(props: Props) {
+        super(props);
+        this.state = {};
+    }
+
+    render() {
+        return (
+            <div>
+                
+            </div>
+        );
+    }
+}
+
+
+export default $componentName;
