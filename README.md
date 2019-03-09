@@ -1,4 +1,5 @@
 # react-boilerplate-cli
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 Cli tool for creating react components
 
 # new-component
